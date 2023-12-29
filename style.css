@@ -1,0 +1,50 @@
+.logo{
+    position: absolute;
+    bottom: 500px;
+    left: 1230px;
+}
+.mainimg{
+    width: 900px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.maplist{
+    color: yellow;
+    position: relative;
+    top: -615px
+
+}
+body{
+    background-color: #000066;
+    background-size: 100vw 120vh;
+    background-repeat: no-repeat;
+}
+.title{
+    color: antiquewhite;
+}
+li{
+    color: yellow;
+}
+li:hover {
+    color: red;
+    font-size: 1.3rem;
+}
+.map{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    overflow: hidden;
+    width: 1000px;
+    height: 600px;
+    border: 5px solid black;
+}
+.mainimg{
+    width: 1000px;
+    height: 600px;
+    margin-top: 0px;
+}
